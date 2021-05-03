@@ -1,11 +1,12 @@
-# functions-framework-python-sample
+# Testing/Debuging Functions Framework env for Python
 
 ## Configuration 
 
-Functions framework hello world app pre-configured for local testing/debugging with Cloud Shell Editor. Configuration steps to get it running
+Google Cloud Functions Test/Debug environment with Cloud Shell Editor using Functions Framework (python).
 
+Configuration steps:
 
-* Run the command below before using the debugger
+* Run the command below to install Functions Framework
 
 ```bash
 pip3 install functions-framework

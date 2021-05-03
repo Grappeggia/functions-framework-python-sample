@@ -1,8 +1,8 @@
-# Cloud Functions testing env for Python
+# Cloud Functions Python testing env
 
 ## Configuration 
 
-Google Cloud Functions Test/Debug environment with Cloud Shell Editor using Functions Framework (python).
+Google Cloud Functions Python Test/Debug environment with Cloud Shell Editor using Functions Framework.
 
 Configuration steps:
 
@@ -17,6 +17,6 @@ pip3 install functions-framework
 
 
 
-## Launching it here
+## Launch it here
 
 [![Open in Cloud Shell](https://gstatic.com/cloudssh/images/open-btn.svg)](https://ide.cloud.google.com/?cloudshell_git_repo=https%3A%2F%2Fgithub.com%2FGrappeggia%2Ffunctions-framework-python-sample&cloudshell_open_in_editor=main.py&cloudshell_workspace=%2F&cloudshell_tutorial=README.md)

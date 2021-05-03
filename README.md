@@ -13,6 +13,9 @@ pip3 install functions-framework
 ```
 * Run/Debug the code from the <walkthrough-editor-spotlight spotlightId="activity-bar-debug">Debug panel</walkthrough-editor-spotlight>
 
+* Open your live function from the <walkthrough-web-preview-icon></walkthrough-web-preview-icon> Web preview icon
+
+
 
 ## Launching it here
 

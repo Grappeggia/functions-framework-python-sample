@@ -1,4 +1,4 @@
-# Testing/Debuging Functions Framework env for Python
+# Cloud Functions testing env for Python
 
 ## Configuration 
 

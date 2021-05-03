@@ -11,7 +11,7 @@ Configuration steps:
 ```bash
 pip3 install functions-framework
 ```
-* Launch the code from the <walkthrough-editor-spotlight spotlightId="activity-bar-debug">Debug panel</walkthrough-editor-spotlight>
+* Run/Debug the code from the <walkthrough-editor-spotlight spotlightId="activity-bar-debug">Debug panel</walkthrough-editor-spotlight>
 
 
 ## Launching code
